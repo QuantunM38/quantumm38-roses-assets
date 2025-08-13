@@ -1,0 +1,19 @@
+{
+  "name": "QuantumM38 #0001",
+  "description": "Erstes NFT der QuantumM38 Rosen-Kollektion – 1 leuchtender Drache mit roter Rose.",
+  "image": "ipfs://bafybeib5nhnnopsi45jvwq6ovu5xruit7guvfet66vfhk7qgwbwm7ipvne/0001.png",
+  "attributes": [
+    {
+      "trait_type": "Edition",
+      "value": "Rose #1"
+    },
+    {
+      "trait_type": "Drache",
+      "value": "Rot"
+    },
+    {
+      "trait_type": "Bedeutung",
+      "value": "Liebe"
+    }
+  ]
+}
