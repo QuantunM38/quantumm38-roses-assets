@@ -1,7 +1,7 @@
 {
   "name": "QuantumM38 Rose #0002",
   "description": "Eine orangee Quantum-Rose mit Drache, Teil der einzigartigen QuantumM38-Kollektion.",
-  "image": "ipfs://bafybeib5nhnnopsi45jvwq6ovu5xruit7guvfet66vfhk7qgwbwm7ipvne/0002.png",
+  "image": "https://raw.githubusercontent.com/QuantunM38/quantumm38-roses-assets/main/images/2.png",
   "attributes": [
     {
       "trait_type": "Farbe",
